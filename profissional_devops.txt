@@ -1,0 +1,6 @@
+Se você tivesse que explicar DevOps pra sua avó, familiares, amigos, ou algúem muito fora do mercado, como é que você faria? Difícil, né? Geralmente quando me perguntam eu apenas respondo que atuo na área de informática, porém aqui, vou descrever a minha opinião de quem está iniciando o segundo ano atuando com profissional #DevOps.
+
+A pessoa de DevOps, primeiro, precisa estar preocupada com tudo que acontece no fluxo de desenvolvimento e entraga de um produto ao usuário final, seja este um cliente, um integrante da equipe, da empresa ou terceiro. Nesta constante preocupação há a busca a melhoria continua do que ta sendo feito em processos internos e automatizações de tarefas. Sempre foco na entrega.
+
+Há uma necessidade de comunicação com diferentes pontas e entender a perspectiva de diferentes membros do time. Se for um profissional que veio da área "dev" é importantissimo trocar ideias com quem tem mais experiência como "sysAdmin". Quem era da área de infraestrutura, entrar no mundo do código é fundamental.
+
